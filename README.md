@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Ahmed Mohammed Shaaban 👋
 
-<!--
-**AhmedShaaban11/AhmedShaaban11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fullstack Engineer** | Fresh CS Graduate from Cairo University (GPA: 3.68/4.00, Excellent)
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-shaaban-/) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.shaaban.fcai@gmail.com)
+📍 Giza, Egypt | 📞 +20 114 574 2692
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+Passionate fullstack developer building scalable, user-centric web applications.  
+Graduated July 2025 from Cairo University (Bachelor of Computer Science).  
+Currently volunteering as a Software Engineer at Safwa, creating Telegram-integrated tools that boost team productivity.
+
+## 🛠️ Tech Stack
+- **Languages**: Java · Python · JavaScript/TypeScript · C++ · SQL · HTML/CSS  
+- **Frontend**: React · Next.js · React Router · Tailwind CSS · shadcn/ui  
+- **Backend**: Spring Boot · Spring Data JPA · Spring Security · Prisma ORM  
+- **Databases & Cloud**: PostgreSQL (Supabase) · Firebase · RESTful APIs  
+- **Auth & Security**: JWT · RBAC/ABAC · CSRF · CORS · XSS  
+- **Tools**: Git/GitHub · Figma · Google Apps Script · Telegram Mini Apps  
+- **Concepts**: OOP · Design Patterns · Data Structures · Algorithms · Problem Solving
+
+## 🚀 Key Projects
+- **[Safwa Task Manager](https://github.com/YOUR_USERNAME/safwa-task-manager)** (Production, 100+ users)  
+  Telegram Mini App for team/task management · Next.js + TypeScript + Supabase + Prisma · Multi-level RBAC · i18n (Arabic RTL/English) · Dark/Light mode
+
+- **[Tradify](https://github.com/YOUR_USERNAME/tradify)** — Graduation Project  
+  E-commerce platform for swapping/selling/donating · Java Spring Boot + React + Firebase · JWT/RBAC · AI recommendations · Admin dashboard
+
+- **[Todo-IT](https://github.com/YOUR_USERNAME/todo-it)**  
+  Secure full-stack todo SPA · React + Spring Boot + Spring Security + JPA · JWT auth · CRUD + DTO pattern
+
+## 📚 Learning & Achievements
+- Courses: React/Next.js (Academind), Database Engineering (Hussein Nasser), Data Structures in C++ (Dr. Mostafa Saad)  
+- Readings: Head First OOAD, Introduction to Networking  
+- Activities: 2022 ICPC ECPC Qualifications Collegiate Programming Contest
+
+## 📈 GitHub Stats
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+Feel free to explore my repositories, star projects you like, or reach out for collaboration!  
+Let's build something awesome together 🚀
